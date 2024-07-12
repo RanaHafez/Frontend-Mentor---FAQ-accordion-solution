@@ -40,7 +40,7 @@ function App() {
     </div>
           <div class="attribution">
       Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-      Coded by <a href="#">Rana Hafez (2024)</a>.
+      Coded by <a href="https://portofolio-8jzk.onrender.com/">@Rana Hafez (2024)</a>.
     </div>
     </div>
 

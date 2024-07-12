@@ -8,10 +8,17 @@ body, html {
     align-items: center;
     background-color: hsl(275, 100%, 97%);
 }
-
-
 .attribution { font-size: 11px; text-align: center; margin: 20px;}
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution a {     
+    text-decoration: none;
+    font-weight: 300;
+    color: hsl(228, 45%, 44%, 0.9); 
+}
+
+a:hover {
+    font-weight: 400;
+    color: hsl(228, 45%, 44%);
+}
 .styled-hr {
     background-color: hsl(275, 100%, 97%, 0.4);
     height: 2.5px;
