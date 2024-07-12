@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/RanaHafez/Frontend-Mentor---FAQ-accordion-solution/static/css/main.979a8d47.css",
-    "main.js": "/RanaHafez/Frontend-Mentor---FAQ-accordion-solution/static/js/main.c7cf5d13.js",
-    "static/js/453.ed3810f9.chunk.js": "/RanaHafez/Frontend-Mentor---FAQ-accordion-solution/static/js/453.ed3810f9.chunk.js",
-    "static/media/background-pattern-desktop.svg": "/RanaHafez/Frontend-Mentor---FAQ-accordion-solution/static/media/background-pattern-desktop.621478cf83f8150af604.svg",
-    "index.html": "/RanaHafez/Frontend-Mentor---FAQ-accordion-solution/index.html",
-    "static/media/icon-star.svg": "/RanaHafez/Frontend-Mentor---FAQ-accordion-solution/static/media/icon-star.189fd38b8aefdc8fbe0d4008b1ff497e.svg",
-    "static/media/icon-plus.svg": "/RanaHafez/Frontend-Mentor---FAQ-accordion-solution/static/media/icon-plus.6c5381bcc9a768ea5c3683e11c6bfd6c.svg",
-    "static/media/icon-minus.svg": "/RanaHafez/Frontend-Mentor---FAQ-accordion-solution/static/media/icon-minus.5575b6de09a1e0deab1dd585ada35f31.svg",
-    "main.979a8d47.css.map": "/RanaHafez/Frontend-Mentor---FAQ-accordion-solution/static/css/main.979a8d47.css.map",
-    "main.c7cf5d13.js.map": "/RanaHafez/Frontend-Mentor---FAQ-accordion-solution/static/js/main.c7cf5d13.js.map",
-    "453.ed3810f9.chunk.js.map": "/RanaHafez/Frontend-Mentor---FAQ-accordion-solution/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/ranahafez.github.io/Frontend-Mentor---FAQ-accordion-solution/static/css/main.24a02c7e.css",
+    "main.js": "/ranahafez.github.io/Frontend-Mentor---FAQ-accordion-solution/static/js/main.2632db7f.js",
+    "static/js/453.ed3810f9.chunk.js": "/ranahafez.github.io/Frontend-Mentor---FAQ-accordion-solution/static/js/453.ed3810f9.chunk.js",
+    "static/media/background-pattern-desktop.svg": "/ranahafez.github.io/Frontend-Mentor---FAQ-accordion-solution/static/media/background-pattern-desktop.621478cf83f8150af604.svg",
+    "index.html": "/ranahafez.github.io/Frontend-Mentor---FAQ-accordion-solution/index.html",
+    "static/media/icon-star.svg": "/ranahafez.github.io/Frontend-Mentor---FAQ-accordion-solution/static/media/icon-star.189fd38b8aefdc8fbe0d4008b1ff497e.svg",
+    "static/media/icon-plus.svg": "/ranahafez.github.io/Frontend-Mentor---FAQ-accordion-solution/static/media/icon-plus.6c5381bcc9a768ea5c3683e11c6bfd6c.svg",
+    "static/media/icon-minus.svg": "/ranahafez.github.io/Frontend-Mentor---FAQ-accordion-solution/static/media/icon-minus.5575b6de09a1e0deab1dd585ada35f31.svg",
+    "main.24a02c7e.css.map": "/ranahafez.github.io/Frontend-Mentor---FAQ-accordion-solution/static/css/main.24a02c7e.css.map",
+    "main.2632db7f.js.map": "/ranahafez.github.io/Frontend-Mentor---FAQ-accordion-solution/static/js/main.2632db7f.js.map",
+    "453.ed3810f9.chunk.js.map": "/ranahafez.github.io/Frontend-Mentor---FAQ-accordion-solution/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.979a8d47.css",
-    "static/js/main.c7cf5d13.js"
+    "static/css/main.24a02c7e.css",
+    "static/js/main.2632db7f.js"
   ]
 }
