@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/RanaHafez/Frontend-Mentor---FAQ-accordion-solution/tree/main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution url](https://github.com/RanaHafez/Frontend-Mentor---FAQ-accordion-solution/tree/main)
+- Live Site URL: [live site url](https://ranahafez.github.io/Frontend-Mentor---FAQ-accordion-solution/)
 
 ## My process
 
